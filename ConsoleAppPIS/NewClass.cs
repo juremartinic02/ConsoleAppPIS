@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppPIS
 {
+    
+
     class NewClass
     {
+        public NewClass()
+        {
+            
+        }
     }
 }
+
+
