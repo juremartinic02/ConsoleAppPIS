@@ -14,6 +14,9 @@ namespace ConsoleAppPIS
         {
             
         }
+
+        string Test = "Test";
+
     }
 }
 
